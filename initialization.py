@@ -1,4 +1,4 @@
-
+#specifying an initial value of the weights
 def initialize_parameters_zeros(layers_dims):
     """
     Arguments:
